@@ -105,7 +105,7 @@ table {
 
 td,
 th {
-  width: 100%;
+  width: auto;
   border-bottom: 1px solid #dddddd;
   text-align: left;
   padding: 24px 8px;
